@@ -24,9 +24,9 @@ app.use(express.static(__dirname + '/public'));
 
 // Render and send the main page
 
-app.get('/', function(req, res){
+/*app.get('/', function(req, res){
   res.render('home.jade');
-});
+});*/
 server.listen(appPort);
 // app.listen(appPort);
 console.log("Server listening on port " + appPort);
