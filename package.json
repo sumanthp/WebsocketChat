@@ -18,7 +18,8 @@
 
   "success_url": "/",
 
-"main" : "server.js"
+"main" : "server.js",
+  
   "keywords": [
 
     "node",
