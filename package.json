@@ -18,7 +18,7 @@
 
   "success_url": "/",
 
-"main" : "index.js"
+"main" : "server.js"
   "keywords": [
 
     "node",
@@ -31,7 +31,7 @@
 
   "scripts": {
          "test" :"echo \"Error:no test\" && exit 1",
-      "start":"node index.js"
+      "start":"node server.js"
   },
 
   "addons": [
