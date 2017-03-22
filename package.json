@@ -1,0 +1,62 @@
+{
+
+  "name":"chat",
+
+  "description": "chatapp",
+
+  "website": "https://github.com/sumanthp/Node.js-Chat",
+
+​
+
+  "repository": "https://github.com/sumanthp/Node.js-Chat",
+
+​
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+
+​
+
+  "success_url": "/",
+
+​
+
+  "keywords": [
+
+​
+    "node",
+
+​
+
+    "express",
+
+​
+
+    "socket.io",
+
+​
+
+    "realtime",
+21
+​
+22
+    "websocket",
+
+    "jade"
+
+  ],
+
+  "scripts": {
+
+  },
+
+  "addons": [
+
+  ],
+
+  "env": {
+
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+
+  }
+
+}
+
