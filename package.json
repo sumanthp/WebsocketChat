@@ -3,6 +3,7 @@
   "name":"chat",
 
   "description": "chatapp",
+  "version":"1.0.0",
 
   "website": "https://github.com/sumanthp/WebsocketChat",
 
@@ -17,30 +18,20 @@
 
   "success_url": "/",
 
-
+"main" : "index.js"
   "keywords": [
 
     "node",
-
-
-
     "express",
-
-
-
     "socket.io",
-
-
     "realtime",
-
     "websocket",
-
     "jade"
-
   ],
 
   "scripts": {
-
+         "test" :"echo \"Error:no test\" && exit 1",
+      "start":"node index.js"
   },
 
   "addons": [
